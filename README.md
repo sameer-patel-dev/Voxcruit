@@ -7,5 +7,8 @@ Voxcruit is an AI-based Virtual Interviewer Agent that uses VAPI for seamless vo
   - Flask
   - ReactJS
 
-
-[![Watch the Voxcruit Demo](https://www.hubspot.com/hubfs/virtual%20interview%20tips.jpg)](https://drive.google.com/file/d/1MTWqR4q72NH48cFpT-_jq40CjRbMMKPJ/view)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1MTWqR4q72NH48cFpT-_jq40CjRbMMKPJ/view">
+    <img src="https://www.hubspot.com/hubfs/virtual%20interview%20tips.jpg" alt="Watch the Voxcruit Demo">
+  </a>
+</p>
